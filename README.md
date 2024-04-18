@@ -77,13 +77,13 @@ Publish the website in the given URL.
         }
     </script>
     <center>
+        <h1>Sanjai S (212223230186)</h1>
+        <h2>Surface Area of Cylinder</h2>
 
-        <h1>Surface Area of Cylinder</h1>
-
-        <h2>Radius : <input size="30px" type="text"  name="radius" id="radius" placeholder="Enter the Radius of the cylinder">m <br> <br>
+        <h3>Radius : <input size="30px" type="text"  name="radius" id="radius" placeholder="Enter the Radius of the cylinder">m <br> <br>
         Height : <input type="text" size="30px" name="height" id="height" placeholder="Enter the Height of the cylinder">m <br><br>
         <button type="button" onclick="check()">AREA</button> <br> <br>
-        Output : <input type="text" size="30px" name="result" id="result" placeholder="Output"> m<sup>2</sup></span></h2>
+        Output : <input type="text" size="30px" name="result" id="result" placeholder="Output"> m<sup>2</sup></span></h3>
     </center>
 </body>
 </html>
