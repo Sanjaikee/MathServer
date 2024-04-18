@@ -89,7 +89,7 @@ Publish the website in the given URL.
 </html>
 ```
 
-#OUTPUT:
+## OUTPUT:
 ![Screenshot 2024-04-18 091331](https://github.com/Sanjaikee/MathServer/assets/150231888/d2ec9339-d94c-4be5-8fb5-6a0e870402d3)
 
 
