@@ -90,7 +90,8 @@ Publish the website in the given URL.
 ```
 
 ## OUTPUT:
-![Screenshot 2024-04-18 091331](https://github.com/Sanjaikee/MathServer/assets/150231888/d2ec9339-d94c-4be5-8fb5-6a0e870402d3)
+![Screenshot 2024-04-18 092450](https://github.com/Sanjaikee/MathServer/assets/150231888/02475de7-ab50-4c9d-b877-fe9a5adf88ca)
+
 
 
 
