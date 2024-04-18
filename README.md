@@ -88,8 +88,11 @@ Publish the website in the given URL.
 </body>
 </html>
 ```
+## SERVER SIDE PROCESSING:
+![Screenshot 2024-04-18 093339](https://github.com/Sanjaikee/MathServer/assets/150231888/46bdee67-53fa-476b-bf8f-35263be137bd)
 
-## OUTPUT:
+
+## HOMEPAGE:
 ![Screenshot 2024-04-18 092450](https://github.com/Sanjaikee/MathServer/assets/150231888/02475de7-ab50-4c9d-b877-fe9a5adf88ca)
 
 
